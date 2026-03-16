@@ -174,8 +174,9 @@ export const siteData = {
     label: 'Research Team',
     title: 'Our Team',
     supervisors: [
-      { name: 'Dr. Senaka Kelum Gamage', role: 'Senior Lecturer & Supervisor' },
+      { name: 'Dr. Senaka Amarakeerthi', role: 'Senior Lecturer & Supervisor' },
       { name: 'Mr. Chamila Karunatilake', role: 'Lecturer & Supervisor' },
+      { name: 'Ms. Upeksha Hansani ', role: 'Lecturer & co-supervisor' },
     ],
     members: [
       { name: 'Thiwanka L.C.', role: 'Undergraduate Researcher' },

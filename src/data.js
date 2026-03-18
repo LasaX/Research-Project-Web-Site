@@ -113,7 +113,7 @@ export const siteData = {
         id: 'A',
         title: 'Daily Routine Execution',
         description:
-          'Agents follow dynamic daily schedules in real time, adapting pathfinding and goals based on environmental events in a simulated 3D town.',
+          'Agents follow dynamic daily schedules in real time, adapting pathfinding and goals based on environmental events in a simulated 3D research laboratory.',
         metric: 'Schedule completion rate without spatial breakdown or pathing failure',
         icon: '📅',
       },
@@ -129,8 +129,8 @@ export const siteData = {
         id: 'C',
         title: 'Collaborative Planning',
         description:
-          'Agents collectively plan a surprise birthday party requiring spatial convergence, role allocation, synchronised arrival, and secrecy maintenance.',
-        metric: 'Coordination Quality Rubric (CQR) score rated by trained human evaluators',
+          'Agents collectively plan  requiring spatial convergence, role allocation, synchronised arrival, and secrecy maintenance.',
+        metric: '',
         icon: '🎯',
       },
     ],
@@ -165,8 +165,7 @@ export const siteData = {
     ],
     links: [
       { label: 'GitHub Repository', href: '#', icon: 'github' },
-      { label: 'Open Science Framework', href: '#', icon: 'science' },
-      { label: 'Download Dataset', href: '#', icon: 'data' },
+      
     ],
   },
 
@@ -181,7 +180,7 @@ export const siteData = {
     members: [
       { name: 'Thiwanka L.C.', role: 'Undergraduate Researcher' },
       { name: 'Karunarathna E.G.D.L.D.', role: 'Undergraduate Researcher' },
-      { name: 'Manwasingha W.H.T.S.', role: 'Undergraduate Researcher' },
+      { name: 'Manawasingha W.H.T.S.', role: 'Undergraduate Researcher' },
     ],
   },
 

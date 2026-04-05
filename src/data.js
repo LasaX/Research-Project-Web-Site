@@ -14,6 +14,7 @@ export const siteData = {
   nav: [
     { label: 'Introduction', href: '#introduction' },
     { label: 'Architecture', href: '#architecture' },
+    { label: 'Environment', href: '#environment' },
     { label: 'Scenarios', href: '#scenarios' },
     { label: 'Contributions', href: '#contributions' },
     { label: 'Team', href: '#team' },
@@ -100,6 +101,19 @@ export const siteData = {
       { label: 'Navigation', value: 'Yuka AI v0.7.8' },
       { label: 'State', value: 'Zustand v5' },
       { label: 'Validation', value: 'Zod v4' },
+    ],
+  },
+
+  environment: {
+    label: 'World Intelligence (Zones)',
+    title: '3D Research Lab Environment',
+    description:
+      'A continuous 3D spatial simulation designed to explore emergent agent behaviors, daily routines, and dynamic interactions.',
+    images: [
+      '/img/1.webp',
+      '/img/2.webp',
+      '/img/3.webp',
+      '/img/4.webp',
     ],
   },
 
